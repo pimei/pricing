@@ -1,36 +1,29 @@
 ## 陳皮梅小行銷
-You can use the [editor on GitHub](https://github.com/pimei/pricing/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+主打簡單、快速、便宜、一次性收費、還順手做個小善事。
+適合，只有一筆小錢，也想做做基本款的網路行銷，
+宣傳你家的產品、活動、恩...或是你個人（可走川普風），
+預算$800就能有官網基本款，再加$200就幫你成立Facebook粉絲專頁；
+如果再多一點預算，豐富一點的網站內容和粉絲專頁，也只要1700起！
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 收費方式
 
-```markdown
-Syntax highlighted code block
+1. 官方網站
+  - 單一靜態圖文網頁 $800
+  - 第二頁起一頁 $400
+2. FB粉絲專頁
+  - 粉專成立基礎設定 $200
+  - 進階設定一項 $300
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### 注意哦
 
-1. Numbered
-2. List
+* 結案後的維護，例如偶爾想要小修改內容，則每頁斟酌收費$200、新增頁面$400。
+* 所得收入3%將捐出做公益。捐款單位不定期變動，都會公告，也歡迎推薦！
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+![Image](https://scontent-tpe1-1.cdninstagram.com/t51.2885-15/e35/16122714_1795624390687600_7522294619447492608_n.jpg?ig_cache_key=MTQzMDI3NzI5MTU3MjkyMTM4Mw%3D%3D.2)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pimei/pricing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+有意請洽：chen.pimei.marketing@gmail.com
